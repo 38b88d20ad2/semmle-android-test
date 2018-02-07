@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nork</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_internal">InternalActivity</string>
+    <string name="title_activity_intent_controlled_webview">IntentControlledWebview</string>
+    <string name="title_activity_insecure_urlconnections">InsecureURLConnectionsActivity</string>
+</resources>
